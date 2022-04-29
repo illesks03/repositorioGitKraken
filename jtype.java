@@ -15,6 +15,7 @@ public class jtype {
      */
     public static void main(String[] args) {
         System.out.printf("Ejecutando%s%n", "jtype");
+        String cambio="cambio";
     }
 
 }
